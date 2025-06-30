@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-- 🇷🇺 I am a **Full Stack Developer** from **Russia**  
+I am a **Full Stack Developer** from **Russia**  
 - 🔭 I’m currently working as a **Software Engineer**, contributing to both **frontend** and **backend** development  
 - ✍️ Exploring **technical writing** and documentation to share my experiences and knowledge  
 - 💡 Always learning: improving skills in **clean architecture**, **testing**, and **DevOps practices**  
