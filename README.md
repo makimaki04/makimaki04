@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEzMDI5NzUsIm5iZiI6MTc1MTMwMjY3NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjMwVDE2NTc1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3NGZkZDg2MTA2MWUzOTQ4OWNlN2RhMjhjZGFiMzA0OWQ4NWI4ZTE5NGMwZjA1ZjUwZjU0NWFmY2ExNGYyMmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bajl_rjFsyDJFnDwjbXLYpv9V07e1jxvRHRRSkQN22I" width="600" height="300" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" height="300" alt="coding gif"/>
 </div>
 
 ---
