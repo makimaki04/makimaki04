@@ -72,6 +72,6 @@ I am a **Full Stack Developer** from **Russia**
 ### :fire: My Stats :
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app" height="150"/>
-  <img src="https://github-readme-stats.vercel.app" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" height="150"/>
 </div>
