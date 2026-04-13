@@ -71,5 +71,4 @@ I am a **Full Stack Developer** from **Russia**
 
 ### :fire: My Stats :
 
-<div align="center">
-</div>
+![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=makimaki04show_icons=true&theme=radical)
